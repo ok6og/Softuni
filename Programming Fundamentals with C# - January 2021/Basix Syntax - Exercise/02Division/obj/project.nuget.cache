@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QX3dmynQMuHtY5hjKU26IHgO1/gMpSL8+ZWN6GlULHXxINeShepTYqh6nen6Pem+AYJtaif7cP3WHMZay/n9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Basix Syntax - Exercise\\02Division\\02Division.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
