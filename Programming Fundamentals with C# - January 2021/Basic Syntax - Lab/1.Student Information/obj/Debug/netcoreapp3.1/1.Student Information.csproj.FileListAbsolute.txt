@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\bin\Debug\netcoreapp3.1\1.Student Information.exe
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\bin\Debug\netcoreapp3.1\1.Student Information.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\bin\Debug\netcoreapp3.1\1.Student Information.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\bin\Debug\netcoreapp3.1\1.Student Information.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\bin\Debug\netcoreapp3.1\1.Student Information.dll
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\bin\Debug\netcoreapp3.1\1.Student Information.pdb
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\obj\Debug\netcoreapp3.1\1.Student Information.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\obj\Debug\netcoreapp3.1\1.Student Information.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\obj\Debug\netcoreapp3.1\1.Student Information.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\obj\Debug\netcoreapp3.1\1.Student Information.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\obj\Debug\netcoreapp3.1\1.Student Information.dll
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\obj\Debug\netcoreapp3.1\1.Student Information.pdb
+C:\Users\PC\Documents\GitHub\Softuni\Programming Fundamentals with C# - January 2021\Basic Syntax - Lab\1.Student Information\obj\Debug\netcoreapp3.1\1.Student Information.genruntimeconfig.cache
