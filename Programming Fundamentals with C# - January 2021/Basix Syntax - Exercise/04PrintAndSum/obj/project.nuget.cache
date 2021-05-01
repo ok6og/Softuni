@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8nMmCH/QKvCGZM9fOs68CDw+m1Q/Ki61gP+pkrZY1r7TaNWda9pIxsXBCWcvInfvRl5SJXx3b9mJ6z+OUaEzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Basix Syntax - Exercise\\04PrintAndSum\\04PrintAndSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
