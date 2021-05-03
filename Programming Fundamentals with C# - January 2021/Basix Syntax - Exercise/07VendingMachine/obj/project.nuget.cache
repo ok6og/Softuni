@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8xECJ6ydP3QQwZEefRlEMwrGKlwGEITMhokemz6d6N+oS6ugZ+vnFmsDl1IyGnK8YJkKKgFstdioePw4A44JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Basix Syntax - Exercise\\07VendingMachine\\07VendingMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
