@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02Division", "02Division\02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04PrintAndSum", "04PrintAndSum\04PrintAndSum.csproj", "{C12DF3EB-CE99-452F-A606-A40BF59C3822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Login", "05Login\05Login.csproj", "{D6D92539-D258-458C-9E3A-EA3DCE11770A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05Login", "05Login\05Login.csproj", "{D6D92539-D258-458C-9E3A-EA3DCE11770A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06StrongNumber", "06StrongNumber\06StrongNumber.csproj", "{6CFAE42B-A56D-4575-8292-A94C4E9146D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D6D92539-D258-458C-9E3A-EA3DCE11770A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6D92539-D258-458C-9E3A-EA3DCE11770A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6D92539-D258-458C-9E3A-EA3DCE11770A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFAE42B-A56D-4575-8292-A94C4E9146D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFAE42B-A56D-4575-8292-A94C4E9146D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFAE42B-A56D-4575-8292-A94C4E9146D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFAE42B-A56D-4575-8292-A94C4E9146D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

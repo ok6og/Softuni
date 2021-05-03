@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lx8ckHuUN8ltnGX532WgmBN4QtYXHmGxYFU33LaZwxaC1BbWUBsh8x3wIoz+YINakdPzPvCa7n5voknaxMz8Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Basix Syntax - Exercise\\06StrongNumber\\06StrongNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
