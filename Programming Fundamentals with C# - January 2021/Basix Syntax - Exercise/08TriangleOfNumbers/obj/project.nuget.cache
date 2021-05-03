@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pP9ux+1jiOwqd5RrA4/wdNVmdY+hSwxtfjYoX2V0DiI+gFbh/g2IxiOSHQDvXgJzU/CWfEpq7UUTiqhHabd0yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Basix Syntax - Exercise\\08TriangleOfNumbers\\08TriangleOfNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
