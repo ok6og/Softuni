@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qmp8DyKw1IzyK8JMDYHj5mLAQiXw/SUEmv6WDNWDS2Sv5xk32aE16PIX/tS1x05o+RKlmEVI/mCWRRzn1AW58Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Basix Syntax - Exercise\\10RageExpenses\\10RageExpenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
