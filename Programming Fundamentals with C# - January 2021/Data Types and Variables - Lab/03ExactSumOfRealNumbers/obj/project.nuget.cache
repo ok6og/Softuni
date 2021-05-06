@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsx75HaqXZTTTCBOimwg00hxk8vrmLfWCTMbdQc1MIp4/i0lMgeVNHDV/C7gL10MfXUNi8dfaRyZL4XsxfRZJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\03ExactSumOfRealNumbers\\03ExactSumOfRealNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
