@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\Data Types and Variables - Lab\\01ConvertMetersToKilometers\\01ConvertMetersToKilometers.csproj": {}
+    "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\02PoundsToDollars\\02PoundsToDollars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\Data Types and Variables - Lab\\01ConvertMetersToKilometers\\01ConvertMetersToKilometers.csproj": {
+    "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\02PoundsToDollars\\02PoundsToDollars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\Data Types and Variables - Lab\\01ConvertMetersToKilometers\\01ConvertMetersToKilometers.csproj",
-        "projectName": "01ConvertMetersToKilometers",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\Data Types and Variables - Lab\\01ConvertMetersToKilometers\\01ConvertMetersToKilometers.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\02PoundsToDollars\\02PoundsToDollars.csproj",
+        "projectName": "02PoundsToDollars",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\02PoundsToDollars\\02PoundsToDollars.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\Data Types and Variables - Lab\\01ConvertMetersToKilometers\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\02PoundsToDollars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
