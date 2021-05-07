@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9OlEVLoI2xwRkavSmeuVGtO16W6Y0ZdIvRwlWR6FOCm3FDa54V2GCCBDjNftHq5wzBUpsreMQsSNKgwEZBLGlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\05SpecialNumbers\\05SpecialNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
