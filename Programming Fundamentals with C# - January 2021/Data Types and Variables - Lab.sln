@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05SpecialNumbers", "Data Ty
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ReversedCars", "06ReversedCars\06ReversedCars.csproj", "{A25B4CAD-F4F8-4A5D-BDC7-AB71B91AC56B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07ContactNames", "07ContactNames\07ContactNames.csproj", "{078B0757-D572-42E8-BD2B-83D54388CCB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A25B4CAD-F4F8-4A5D-BDC7-AB71B91AC56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A25B4CAD-F4F8-4A5D-BDC7-AB71B91AC56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A25B4CAD-F4F8-4A5D-BDC7-AB71B91AC56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078B0757-D572-42E8-BD2B-83D54388CCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078B0757-D572-42E8-BD2B-83D54388CCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078B0757-D572-42E8-BD2B-83D54388CCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078B0757-D572-42E8-BD2B-83D54388CCB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
