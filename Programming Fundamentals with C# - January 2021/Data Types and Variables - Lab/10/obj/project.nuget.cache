@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7UsfC6h1nBpiS2ynvu6Y6KPZOxWCilEioRKtLMoSQ6akfYu9EPF+1hlujNmoxc+GBAxAAzAlG2Fc0cD39tXJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\Programming Fundamentals with C# - January 2021\\Data Types and Variables - Lab\\10\\10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
