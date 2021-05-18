@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwa7OttewIMCxVJ/tonabSSPyBtPwFV7nWNBECBZyukB+iEwT0dhvR0DlPEsvvo2VEDqsMz8It6KhsjmKfWa3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Stacks and Queues\\SimpleCalculator\\SimpleCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
