@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "um/PS33oRZ+TczieD7FREzDHJeNPbe5741F7XZxAv45ylFlhAgakMaP6DQFZJA4x26jg9NevCRIyzq6zt/iZgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Stacks and Queues\\StackSum\\StackSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
