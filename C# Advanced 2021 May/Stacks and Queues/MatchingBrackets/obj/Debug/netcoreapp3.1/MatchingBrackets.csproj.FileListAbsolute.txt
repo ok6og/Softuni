@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stacks and Queues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.genruntimeconfig.cache

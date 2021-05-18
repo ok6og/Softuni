@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ce+Spg1gG2OB9RqLQna4+DZaqKcGsEJcXHhcOofzbbwzmjvH05JjzFqMVT4KHj4QC5tORI+8uZQ4YUFQbbD/Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Stacks and Queues\\MatchingBrackets\\MatchingBrackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
