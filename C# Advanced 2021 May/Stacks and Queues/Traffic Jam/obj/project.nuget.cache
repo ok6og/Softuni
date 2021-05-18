@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOV/jdpxiEMNx0bGrdLFK+GWCkhk4s9er0+8p5YMZ767YchXX4IO7bVh7DdjGPQ0mAa9STKw8J20PWLW5H5vvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Stacks and Queues\\Traffic Jam\\Traffic Jam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
