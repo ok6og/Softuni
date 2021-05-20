@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\bin\Debug\netcoreapp3.1\SongQueue.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\SongQueue\obj\Debug\netcoreapp3.1\SongQueue.genruntimeconfig.cache
