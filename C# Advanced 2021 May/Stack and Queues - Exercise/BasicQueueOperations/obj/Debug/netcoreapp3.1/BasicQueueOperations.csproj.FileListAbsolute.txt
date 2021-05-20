@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bw/AJLmLqel7FabZU3dncVcCXiGy5HdQBhsfZiFq6rsKCtoB7Jfs9WA3dI1K/nun/WHx5ZTbDm9vn/H7kRUawA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Stack and Queues - Exercise\\BasicQueueOperations\\BasicQueueOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

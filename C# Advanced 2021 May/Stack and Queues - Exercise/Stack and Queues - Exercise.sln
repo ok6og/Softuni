@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Basic Stack Operations", "1. Basic Stack Operations\1. Basic Stack Operations.csproj", "{7A450280-A2D3-4EDE-A152-23BCA39AE8DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicQueueOperations", "BasicQueueOperations\BasicQueueOperations.csproj", "{6730BE03-F09D-4505-BF06-124B12BE8921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFood.csproj", "{45B1983F-E087-41D5-976F-E385C559B308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7A450280-A2D3-4EDE-A152-23BCA39AE8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A450280-A2D3-4EDE-A152-23BCA39AE8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A450280-A2D3-4EDE-A152-23BCA39AE8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6730BE03-F09D-4505-BF06-124B12BE8921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6730BE03-F09D-4505-BF06-124B12BE8921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6730BE03-F09D-4505-BF06-124B12BE8921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6730BE03-F09D-4505-BF06-124B12BE8921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B1983F-E087-41D5-976F-E385C559B308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B1983F-E087-41D5-976F-E385C559B308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B1983F-E087-41D5-976F-E385C559B308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B1983F-E087-41D5-976F-E385C559B308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

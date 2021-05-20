@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\bin\Debug\netcoreapp3.1\FastFood.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FastFood\obj\Debug\netcoreapp3.1\FastFood.genruntimeconfig.cache
