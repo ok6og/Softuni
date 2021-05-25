@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.genruntimeconfig.cache
