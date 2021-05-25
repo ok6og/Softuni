@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgM+4kg/kNwvOIY1RJeL0xzs673cXQxvsNtvnoN9BpzhTI2yUvlH0dVvythH3SeWIzHcFSvscsnISe1rijf60g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Multidimensional Arrays - Labs\\PascalTriangle\\PascalTriangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -10,3 +10,4 @@ C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Array
 C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.dll
 C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.pdb
 C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Labs\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csprojAssemblyReference.cache
