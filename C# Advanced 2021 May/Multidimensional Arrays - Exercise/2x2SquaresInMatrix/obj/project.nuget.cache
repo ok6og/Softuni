@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNhLEX9oCNYyD2tTximrl3c3aZGgxGIyUPCZETGv476T/u5I6ALbWMZ0PHePnrC8uOLc7+9tBk477glciCdfEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Multidimensional Arrays - Exercise\\2x2SquaresInMatrix\\2x2SquaresInMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\bin\Debug\netcoreapp3.1\2x2SquaresInMatrix.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\bin\Debug\netcoreapp3.1\2x2SquaresInMatrix.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\bin\Debug\netcoreapp3.1\2x2SquaresInMatrix.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\bin\Debug\netcoreapp3.1\2x2SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\bin\Debug\netcoreapp3.1\2x2SquaresInMatrix.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\bin\Debug\netcoreapp3.1\2x2SquaresInMatrix.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\obj\Debug\netcoreapp3.1\2x2SquaresInMatrix.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\obj\Debug\netcoreapp3.1\2x2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\obj\Debug\netcoreapp3.1\2x2SquaresInMatrix.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\obj\Debug\netcoreapp3.1\2x2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\obj\Debug\netcoreapp3.1\2x2SquaresInMatrix.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\obj\Debug\netcoreapp3.1\2x2SquaresInMatrix.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\2x2SquaresInMatrix\obj\Debug\netcoreapp3.1\2x2SquaresInMatrix.genruntimeconfig.cache
