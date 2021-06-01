@@ -19,21 +19,16 @@ namespace FashionBoutique
 
             while (clothesBox.Any())
             {
-                if(sum+clothesBox.Peek() < rackCapacity)
-                {
-                    sum += clothesBox.Pop();
-                }
-                else if(sum+clothesBox.Peek() == rackCapacity)
+                sum += clothesBox.Peek();
+
+                if(sum <= rackCapacity)
                 {
                     clothesBox.Pop();
-                    sum = 0;
-                    counter++;
                 }
-                else if(sum+clothesBox.Peek() > rackCapacity)
+                else
                 {
-                    counter++;
                     sum = 0;
-                    sum += clothesBox.Pop();
+                    counter++;
                 }
             }
 
