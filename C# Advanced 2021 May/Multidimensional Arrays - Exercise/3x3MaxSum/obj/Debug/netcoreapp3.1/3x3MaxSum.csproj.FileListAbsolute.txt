@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\bin\Debug\netcoreapp3.1\3x3MaxSum.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\bin\Debug\netcoreapp3.1\3x3MaxSum.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\bin\Debug\netcoreapp3.1\3x3MaxSum.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\bin\Debug\netcoreapp3.1\3x3MaxSum.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\bin\Debug\netcoreapp3.1\3x3MaxSum.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\bin\Debug\netcoreapp3.1\3x3MaxSum.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\obj\Debug\netcoreapp3.1\3x3MaxSum.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\obj\Debug\netcoreapp3.1\3x3MaxSum.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\obj\Debug\netcoreapp3.1\3x3MaxSum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\obj\Debug\netcoreapp3.1\3x3MaxSum.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\obj\Debug\netcoreapp3.1\3x3MaxSum.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Multidimensional Arrays - Exercise\3x3MaxSum\obj\Debug\netcoreapp3.1\3x3MaxSum.genruntimeconfig.cache
