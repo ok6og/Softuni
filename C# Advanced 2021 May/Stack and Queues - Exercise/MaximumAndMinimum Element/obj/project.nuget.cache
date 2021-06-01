@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxvRBNcIK3jmpRuSZ7d5nF8Xl+nTcnfNjIOaJ7UnEYsxKtPTNtNk0TPrOKDXlNpk5x/A4n9Ro2gcUWxeGANs5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Stack and Queues - Exercise\\MaximumAndMinimum Element\\MaximumAndMinimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

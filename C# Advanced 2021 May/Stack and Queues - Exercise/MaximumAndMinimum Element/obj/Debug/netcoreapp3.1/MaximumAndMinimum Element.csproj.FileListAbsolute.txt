@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\bin\Debug\netcoreapp3.1\MaximumAndMinimum Element.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\bin\Debug\netcoreapp3.1\MaximumAndMinimum Element.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\bin\Debug\netcoreapp3.1\MaximumAndMinimum Element.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\bin\Debug\netcoreapp3.1\MaximumAndMinimum Element.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\bin\Debug\netcoreapp3.1\MaximumAndMinimum Element.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\bin\Debug\netcoreapp3.1\MaximumAndMinimum Element.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\obj\Debug\netcoreapp3.1\MaximumAndMinimum Element.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\obj\Debug\netcoreapp3.1\MaximumAndMinimum Element.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\obj\Debug\netcoreapp3.1\MaximumAndMinimum Element.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\obj\Debug\netcoreapp3.1\MaximumAndMinimum Element.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\obj\Debug\netcoreapp3.1\MaximumAndMinimum Element.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\MaximumAndMinimum Element\obj\Debug\netcoreapp3.1\MaximumAndMinimum Element.genruntimeconfig.cache
