@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongQueue", "SongQueue\Song
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAndMinimum Element", "MaximumAndMinimum Element\MaximumAndMinimum Element.csproj", "{0B5F1CA3-8DD2-4A5C-B198-D70BE6D419F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionBoutique", "FashionBoutique\FashionBoutique.csproj", "{5BEE4ED5-EFF2-44E0-9940-5F6F973489C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0B5F1CA3-8DD2-4A5C-B198-D70BE6D419F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B5F1CA3-8DD2-4A5C-B198-D70BE6D419F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B5F1CA3-8DD2-4A5C-B198-D70BE6D419F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEE4ED5-EFF2-44E0-9940-5F6F973489C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEE4ED5-EFF2-44E0-9940-5F6F973489C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEE4ED5-EFF2-44E0-9940-5F6F973489C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEE4ED5-EFF2-44E0-9940-5F6F973489C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

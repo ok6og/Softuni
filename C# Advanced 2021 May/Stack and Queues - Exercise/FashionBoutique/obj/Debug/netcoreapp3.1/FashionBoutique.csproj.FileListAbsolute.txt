@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.genruntimeconfig.cache
