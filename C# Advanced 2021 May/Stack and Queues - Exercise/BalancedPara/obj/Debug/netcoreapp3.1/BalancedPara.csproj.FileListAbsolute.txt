@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\bin\Debug\netcoreapp3.1\BalancedPara.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\bin\Debug\netcoreapp3.1\BalancedPara.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\bin\Debug\netcoreapp3.1\BalancedPara.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\bin\Debug\netcoreapp3.1\BalancedPara.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\bin\Debug\netcoreapp3.1\BalancedPara.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\bin\Debug\netcoreapp3.1\BalancedPara.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\obj\Debug\netcoreapp3.1\BalancedPara.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\obj\Debug\netcoreapp3.1\BalancedPara.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\obj\Debug\netcoreapp3.1\BalancedPara.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\obj\Debug\netcoreapp3.1\BalancedPara.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\obj\Debug\netcoreapp3.1\BalancedPara.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Stack and Queues - Exercise\BalancedPara\obj\Debug\netcoreapp3.1\BalancedPara.genruntimeconfig.cache
