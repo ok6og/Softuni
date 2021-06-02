@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\bin\Debug\netcoreapp3.1\SortEven.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\bin\Debug\netcoreapp3.1\SortEven.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\bin\Debug\netcoreapp3.1\SortEven.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\bin\Debug\netcoreapp3.1\SortEven.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\bin\Debug\netcoreapp3.1\SortEven.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\bin\Debug\netcoreapp3.1\SortEven.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\obj\Debug\netcoreapp3.1\SortEven.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\obj\Debug\netcoreapp3.1\SortEven.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\obj\Debug\netcoreapp3.1\SortEven.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\obj\Debug\netcoreapp3.1\SortEven.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\obj\Debug\netcoreapp3.1\SortEven.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\obj\Debug\netcoreapp3.1\SortEven.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Functional Programming - Lab\SortEven\obj\Debug\netcoreapp3.1\SortEven.genruntimeconfig.cache
