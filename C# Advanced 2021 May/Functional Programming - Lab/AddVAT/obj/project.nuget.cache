@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ilQvTo3Mx0YAd0w4rSE/kzKyzwWKa/VGTed7TFN+iETeMIKIDYSptgjfAFt6Axiifaw4WbcFRF051PUAUiMiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Functional Programming - Lab\\AddVAT\\AddVAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
