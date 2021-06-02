@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVamGqK003oalwbjQdxhDctBfz5okPARjvBpsK7B3wYykpV81g70GLGvIuCfRCTn2RY6ctS7sFow6/n0N+UtiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Functional Programming - Lab\\SumNumbers\\SumNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
