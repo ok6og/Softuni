@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvxFmhM2cP1tbuQczqTmiTyo1N/yIlkV261fefzP20KcIxUxT6BKMd5PgwgXhUhwpGZ4bfmdDTWT0SnjOl3mbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Functional Programming - Lab\\SortEven\\SortEven.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
