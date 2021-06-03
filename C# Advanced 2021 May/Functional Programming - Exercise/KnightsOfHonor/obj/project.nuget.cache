@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNH8ospv5wkCwVVw068omLtXftnWPTDooczGjGBDfC9OY3odq3jHHhSh0eT+nIIqEIG4QCk1Ux3V6BungIByyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Functional Programming - Exercise\\KnightsOfHonor\\KnightsOfHonor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

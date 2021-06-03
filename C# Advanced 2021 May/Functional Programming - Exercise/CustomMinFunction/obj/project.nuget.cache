@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPb7VIbP+HNLbTXxDlIkLGmCsyu7eTOV8s+SKM6Ybj0W4KKCPnN7F7TfHz8mIgirpdGq4cRvlhCNTcr8eaiRgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Functional Programming - Exercise\\CustomMinFunction\\CustomMinFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
