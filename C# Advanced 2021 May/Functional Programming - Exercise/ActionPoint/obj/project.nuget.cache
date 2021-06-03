@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwwL+gdqTNTsFBo4H/WXP9j9Ec6EfyfedMAD+utq/ELORrPzO17QCvo7yk5K1VkPzOtxTlxxm3BY+lAE8DOzSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Functional Programming - Exercise\\ActionPoint\\ActionPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

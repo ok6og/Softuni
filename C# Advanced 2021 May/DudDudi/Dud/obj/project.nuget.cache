@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQDWqHZ3guJSlyhRO0l14BjT6okHbVwCzKsOm0Vf+zRvbsmhTLkH2S7dq5fqHE6JMycYWtBV2Jdg7SqKs4MK/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\DudDudi\\Dud\\Dud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
