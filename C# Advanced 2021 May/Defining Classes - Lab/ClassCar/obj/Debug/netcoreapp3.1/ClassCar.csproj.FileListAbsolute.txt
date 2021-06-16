@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\bin\Debug\netcoreapp3.1\ClassCar.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\bin\Debug\netcoreapp3.1\ClassCar.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\bin\Debug\netcoreapp3.1\ClassCar.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\bin\Debug\netcoreapp3.1\ClassCar.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\bin\Debug\netcoreapp3.1\ClassCar.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\bin\Debug\netcoreapp3.1\ClassCar.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\obj\Debug\netcoreapp3.1\ClassCar.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\obj\Debug\netcoreapp3.1\ClassCar.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\obj\Debug\netcoreapp3.1\ClassCar.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\obj\Debug\netcoreapp3.1\ClassCar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\obj\Debug\netcoreapp3.1\ClassCar.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\obj\Debug\netcoreapp3.1\ClassCar.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Advanced 2021 May\Defining Classes - Lab\ClassCar\obj\Debug\netcoreapp3.1\ClassCar.genruntimeconfig.cache
