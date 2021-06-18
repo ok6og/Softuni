@@ -10,7 +10,7 @@ namespace ListyIterator
             string command = String.Empty;
             ListyIterator<string> names = null;
 
-            while ((command = Console.ReadLine())!= "END")
+            while ((command = Console.ReadLine()) != "END")
             {
                 var tokens = command.Split();
 
@@ -18,7 +18,7 @@ namespace ListyIterator
                 {
                     names = new ListyIterator<string>(tokens.Skip(1).ToArray());
                 }
-                else if(tokens[0] == "Move")
+                else if (tokens[0] == "Move")
                 {
                     Console.WriteLine(names.Move());
                 }
@@ -33,7 +33,10 @@ namespace ListyIterator
                         Console.WriteLine(ae.Message);
                         throw;
                     }
-                    names.Print();
+                }
+                else if (tokens[0] == "PrintAll")
+                {
+                    names.PrintAll();
                 }
                 else if (tokens[0] == "HasNext")
                 {
