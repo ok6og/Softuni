@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ListyIterator
 {
-    public class ListyIterator<T>
+    public class ListyIterator<T> : IEnumerable<T>
     {
         private List<T> collection;
         private int currentIndex;
@@ -16,7 +17,6 @@ namespace ListyIterator
             currentIndex = 0;
         }
 
-        public List<T> List => collection;
 
         public bool Move()
         {
@@ -39,5 +39,20 @@ namespace ListyIterator
         }
 
         public bool HasNext() => currentIndex < collection.Count - 1;
+
+        public void PrintAll()
+        {
+            Console.WriteLine(string.Join(" ", collection));
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            foreach (T element in collection)
+            {
+                yield return element;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
     }
 }
