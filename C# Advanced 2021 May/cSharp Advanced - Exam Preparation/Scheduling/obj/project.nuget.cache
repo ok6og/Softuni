@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghVv5bsPaGSMcL6uVrP9jmlLUR+56FavEzAubfGHuksvA3iy95SlMeaBVFFhv8HY4IHhENpkF9JkGJocv8z1xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\cSharp Advanced - Exam Preparation\\Scheduling\\Scheduling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

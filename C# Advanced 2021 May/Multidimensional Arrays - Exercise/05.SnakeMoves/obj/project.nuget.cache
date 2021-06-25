@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YdA2uyZDKzn6wDVdJ0vo/rXcji0jZFPYjQpbiYNftmMq8/6VVTnwtt7B+rjGbEv5Po+Ee39aUYIK3Z7gs+b+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\Multidimensional Arrays - Exercise\\05.SnakeMoves\\05.SnakeMoves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
