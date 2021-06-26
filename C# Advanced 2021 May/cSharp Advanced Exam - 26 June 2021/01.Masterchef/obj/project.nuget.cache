@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATcRkIDnmCGJMAdr+w/hT75qezif1b90JSynMLFN7Uk/7UlWOI87Z2g6CQIHeIqxl1iE6jnohYOsdxu+yno7Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Advanced 2021 May\\cSharp Advanced Exam - 26 June 2021\\01.Masterchef\\01.Masterchef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
