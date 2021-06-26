@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace _02.Survivor
@@ -16,23 +15,16 @@ namespace _02.Survivor
             {
                 char[] input = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
                 beach[row] = input;
-                
+
             }
 
+            string command = Console.ReadLine();
             int myTokenCount = 0;
             int oppTokenCount = 0;
 
-            while (true)
+            while (command != "Gong")
             {
-                string[] tokens = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                string command = tokens[0];
-
-                if (command == "Gong")
-                {
-                    break;
-                }
-
-
+                string[] tokens = command.Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
                 int row = int.Parse(tokens[1]);
                 int col = int.Parse(tokens[2]);
                 bool isCoordinates = (row >= 0 && row < beach.Length && col >= 0 && col < beach[row].Length);
@@ -43,7 +35,6 @@ namespace _02.Survivor
                         myTokenCount++;
                         beach[row][col] = '-';
                     }
-
                 }
                 else if (tokens[0] == "Opponent" && isCoordinates)
                 {
@@ -68,7 +59,7 @@ namespace _02.Survivor
                                     beach[row][col] = '-';
                                 }
                             }
-                            else if(!isCoordinates)
+                            else if (!isCoordinates)
                             {
                                 break;
                             }
@@ -127,15 +118,15 @@ namespace _02.Survivor
                     }
 
                 }
+                command = Console.ReadLine();
             }
 
             for (int row = 0; row < beach.Length; row++)
-            {                               
-                Console.WriteLine(string.Join(" ", beach[row]));                
+            {
+                Console.WriteLine(string.Join(" ", beach[row]));
             }
 
             Console.WriteLine($"Collected tokens: {myTokenCount}");
-
             Console.WriteLine($"Opponent's tokens: {oppTokenCount}");
         }
     }
