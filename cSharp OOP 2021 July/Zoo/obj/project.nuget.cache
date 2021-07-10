@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mps/QsZdhM6wQ5Z/MsxZ74EAWCJW7CRiktNaBk9N+/XFVQqrbLJL9PYa8k5oNfq6eq7HaZDPlXu8bqpJjEAUkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
