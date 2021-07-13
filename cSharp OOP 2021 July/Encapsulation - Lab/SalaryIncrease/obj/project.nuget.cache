@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pFNlzxdcHLXoJ4gHgAER2C5uFPy8ZYd30TSeEXmFbhgcRhaFPWAaDD3L9/fYTyhadlUycKVfGrPgHmR4/Uw0yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Encapsulation - Lab\\SalaryIncrease\\SalaryIncrease.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

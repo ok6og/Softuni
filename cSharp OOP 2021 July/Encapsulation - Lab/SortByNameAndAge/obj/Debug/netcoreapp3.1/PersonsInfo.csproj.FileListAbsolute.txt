@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Lab\SortByNameAndAge\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache

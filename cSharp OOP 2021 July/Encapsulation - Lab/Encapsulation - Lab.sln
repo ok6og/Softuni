@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonsInfo", "SortByNameAndAge\PersonsInfo.csproj", "{C55791C4-A6C7-4187-8FF0-A32DF265BCB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryIncrease", "SalaryIncrease\SalaryIncrease.csproj", "{3ED42011-1025-4D26-87C9-C15C78A1E6E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C55791C4-A6C7-4187-8FF0-A32DF265BCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55791C4-A6C7-4187-8FF0-A32DF265BCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55791C4-A6C7-4187-8FF0-A32DF265BCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55791C4-A6C7-4187-8FF0-A32DF265BCB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED42011-1025-4D26-87C9-C15C78A1E6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED42011-1025-4D26-87C9-C15C78A1E6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED42011-1025-4D26-87C9-C15C78A1E6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED42011-1025-4D26-87C9-C15C78A1E6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD6BA95-676A-49F2-A8DE-19BB7D6FF4EA}
+	EndGlobalSection
+EndGlobal
