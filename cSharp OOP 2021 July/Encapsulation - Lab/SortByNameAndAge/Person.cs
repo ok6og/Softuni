@@ -92,7 +92,7 @@ namespace PersonsInfo
 
         public override string ToString()
         {
-            return $"{FirstName} {LastName} receives {Salary:F2} leva.";
+            return $"{FirstName} {LastName} gets {Salary:F2} leva.";
         }
 
         public void IncreaseSalary(decimal percentage)
