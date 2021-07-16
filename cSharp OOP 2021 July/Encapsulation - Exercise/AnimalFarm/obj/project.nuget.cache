@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eZS/hmEBiX0NlpKhkE2isOwAb4s0RLdBMqKMrcgZQbD2t+gdvwu+QApEIhrhGty+vtqlH0b39bYiXE9jKMAeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Encapsulation - Exercise\\AnimalFarm\\AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

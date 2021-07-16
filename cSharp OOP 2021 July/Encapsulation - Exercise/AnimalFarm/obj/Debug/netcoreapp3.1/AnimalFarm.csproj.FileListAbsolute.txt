@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
