@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBoxData", "ClassBoxData\ClassBoxData.csproj", "{BB4A9702-7DEC-457B-BC3D-E386CEBE9A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassBoxData", "ClassBoxData\ClassBoxData.csproj", "{BB4A9702-7DEC-457B-BC3D-E386CEBE9A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamGenerator", "FootballTeamGenerator\FootballTeamGenerator.csproj", "{DA9BFAA3-52B3-45E1-97FB-1B9345870D14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BB4A9702-7DEC-457B-BC3D-E386CEBE9A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB4A9702-7DEC-457B-BC3D-E386CEBE9A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB4A9702-7DEC-457B-BC3D-E386CEBE9A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9BFAA3-52B3-45E1-97FB-1B9345870D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9BFAA3-52B3-45E1-97FB-1B9345870D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9BFAA3-52B3-45E1-97FB-1B9345870D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9BFAA3-52B3-45E1-97FB-1B9345870D14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
