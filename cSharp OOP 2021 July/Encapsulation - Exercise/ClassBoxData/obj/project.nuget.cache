@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sd6SmaMvcbpi2RvNY5BtdmiVwKwdPjvkb3NtGGPCo4Wvb2mvxVvaJh8Hp7iYpiFrbktIF+4xLhxOeyTyXh4HPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Encapsulation - Exercise\\ClassBoxData\\ClassBoxData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
