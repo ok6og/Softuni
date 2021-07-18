@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3KJ4DSQS7JDaEI8KAP32drSEfvIM6ujgGJ9qdjDNZH8/+7RCYrf5y1GA1tx7hzq/MfhWrYIArVEWjYJCUigXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Encapsulation - Exercise\\ShoppingSpree\\ShoppingSpree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
