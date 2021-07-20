@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Cars
 {
-    public interface IElectricCar : ICar
+    public interface IElectricCar
     {
         int Battery { get; set; }
     }
