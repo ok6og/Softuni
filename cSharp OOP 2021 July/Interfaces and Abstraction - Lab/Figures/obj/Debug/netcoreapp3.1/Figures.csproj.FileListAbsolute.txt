@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\bin\Debug\netcoreapp3.1\Figures.exe
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\obj\Debug\netcoreapp3.1\Figures.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\obj\Debug\netcoreapp3.1\Figures.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\obj\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Interfaces and Abstraction - Lab\Figures\obj\Debug\netcoreapp3.1\Figures.genruntimeconfig.cache
