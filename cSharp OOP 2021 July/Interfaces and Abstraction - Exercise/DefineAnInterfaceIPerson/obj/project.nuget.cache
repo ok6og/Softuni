@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9JNZ9E7eFAxLnK3fS0bwI1CJd+QU8nWhylVrs69Qf6Q9pb57vAKTz/ktAxAFpBex1iyXeigCCy9c8mNUP7bqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Interfaces and Abstraction - Exercise\\DefineAnInterfaceIPerson\\PersonInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
