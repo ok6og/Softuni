@@ -4,9 +4,8 @@ using System.Text;
 
 namespace PersonInfo
 {
-    public interface IPerson
+    public interface IIdentifiable
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
+        public string Id { get; set; }
     }
 }
