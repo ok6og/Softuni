@@ -16,9 +16,9 @@ namespace Animals
             this.favouriteFood = food;
         }
 
-        public virtual  void ExplainSelf()
+        public virtual string ExplainSelf()
         {
-            Console.WriteLine($"I am {name} and my favourite food is {favouriteFood}");
+             return ($"I am {name} and my favourite food is {favouriteFood}");
         }
           
     }
