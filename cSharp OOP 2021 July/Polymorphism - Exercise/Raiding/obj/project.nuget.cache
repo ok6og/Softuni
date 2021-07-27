@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DScZUPusoATXCUcKPeHpX00c80rz9kfdxwzGor+7YG+qw0rFfvxwf6tLjxqU2UDyeA3UafeMcONglhWm60aeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Polymorphism - Exercise\\Raiding\\Raiding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
