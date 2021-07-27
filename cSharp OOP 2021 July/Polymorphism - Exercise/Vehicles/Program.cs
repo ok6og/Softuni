@@ -8,8 +8,10 @@ namespace Vehicles
         {
             string[] carInfo = Console.ReadLine().Split();
             string[] truckInfo = Console.ReadLine().Split();
-            Car car = new Car(double.Parse(carInfo[1]), double.Parse(carInfo[2]));
-            Truck truck = new Truck(double.Parse(truckInfo[1]), double.Parse(truckInfo[2]));
+            string[] busInfo = Console.ReadLine().Split();
+            Car car = new Car(double.Parse(carInfo[1]), double.Parse(carInfo[2]), int.Parse(carInfo[3]));
+            Truck truck = new Truck(double.Parse(truckInfo[1]), double.Parse(truckInfo[2]), int.Parse(truckInfo[3]));
+            Bus bus = new Bus(double.Parse(busInfo[1]), double.Parse(busInfo[2]), int.Parse(busInfo[3]));
 
             int n = int.Parse(Console.ReadLine());
 
@@ -26,26 +28,38 @@ namespace Vehicles
                     {
                         Console.WriteLine(car.Drive(amount));
                     }
-                    else
+                    else if (vehicle == "Truck")
                     {
                         Console.WriteLine(truck.Drive(amount));
                     }
+                    else
+                    {
+                        Console.WriteLine(bus.Drive(amount));
+                    }
                 }
-                else
+                else if (command == "Refuel")
                 {
                     if (vehicle == "Car")
                     {
                         car.Refuel(amount);
                     }
-                    else
+                    else if (vehicle == "Truck")
                     {
                         truck.Refuel(amount);
                     }
+                    else
+                    {
+                        bus.Refuel(amount);
+                    }
                 }
+                else
+                {
+                    Console.WriteLine(bus.DriveEmpty(amount));
+                }                
             }
-
             Console.WriteLine($"Car: {car.FuelQuantity:F2}");
             Console.WriteLine($"Truck: {truck.FuelQuantity:F2}");
+            Console.WriteLine($"Bus: {bus.FuelQuantity:F2}");
 
         }
     }
