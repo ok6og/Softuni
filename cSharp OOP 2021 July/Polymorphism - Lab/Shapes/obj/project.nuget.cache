@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "USARodm/ppjheAfeLmEULD4j+rJr2YXr13Xh8GkBJCl/mw4c2mHuff1rckUtt+fK3/bpFOjL9bK+dce8fK4ScQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Polymorphism - Lab\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -10,10 +10,9 @@ namespace Animals
         {
         }
 
-        public override void ExplainSelf()
+        public override string ExplainSelf()
         {
-            base.ExplainSelf();
-            Console.WriteLine("DJAAF");
+            return $"{base.ExplainSelf()}\nDJAAF";
         }
     }
 }

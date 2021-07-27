@@ -9,10 +9,9 @@ namespace Animals
         public Cat(string name, string food) : base(name, food)
         {
         }
-        public override void ExplainSelf()
+        public override string ExplainSelf()
         {
-            base.ExplainSelf();
-            Console.WriteLine("MEEOW");
+            return $"{base.ExplainSelf()}\nMEEOW";
         }
     }
 }

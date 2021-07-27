@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfmAQ23uUp5m303CMihfr5tJFJjj4+InP78S6GXaViKIdOetIzwFwuKIfkqAU0YZAqECnzgtDFgm9AJKXqKZrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Polymorphism - Lab\\MathOperation\\MathOperation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
