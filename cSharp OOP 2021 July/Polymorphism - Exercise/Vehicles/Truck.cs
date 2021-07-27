@@ -14,18 +14,12 @@ namespace Vehicles
         public override double FuelConsumption => base.FuelConsumption + Aircondition;
         public override void Refuel(double fuel)
         {
-            if (fuel <= 0)
-            {
-                Console.WriteLine("Fuel must be a positive number");
-            }
-            else if (TankCapacity >= FuelQuantity + fuel)
-            {
-                FuelQuantity = FuelQuantity + (fuel * 0.95);
-            }
-            else
+            if (FuelQuantity+fuel > TankCapacity)
             {
                 Console.WriteLine($"Cannot fit {fuel} fuel in the tank");
+                return;
             }
+            base.Refuel(fuel * 0.95);
         }
     }
 }
