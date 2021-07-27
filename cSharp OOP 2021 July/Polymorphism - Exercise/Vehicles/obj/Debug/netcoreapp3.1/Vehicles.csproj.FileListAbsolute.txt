@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
