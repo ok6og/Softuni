@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ztnh7kp5cld2bpb9sC7bKCM8lKauYcE60PKAh0Fdzab5jPz+dHR0thd+6/wo6r0uyka3hr/Wz6XTZkcJ+gLZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Interfaces and Abstraction - Exercise\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

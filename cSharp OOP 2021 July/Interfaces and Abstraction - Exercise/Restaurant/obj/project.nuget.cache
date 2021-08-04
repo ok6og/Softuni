@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5KSJVTbdVhJmfnP5qUBhFwQQKNEqcVyRbS+RgF9Fs49lx+e7uygI/kDnOLoCZcDCNs2sz+ONBA2+h9sBhyhcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Interfaces and Abstraction - Exercise\\Restaurant\\Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
