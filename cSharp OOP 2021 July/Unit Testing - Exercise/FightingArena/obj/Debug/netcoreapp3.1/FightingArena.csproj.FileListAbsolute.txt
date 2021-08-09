@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Unit Testing - Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
