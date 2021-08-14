@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mzc0u1hF/SIQv0pjMnUGGUmpA6ZALVQQllvz96Y8wUb7BoUj7GI1cVu2R8FI6cAjKuaHPlFkiY5DGsNC/YB4fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\ReflectionAndAttributes\\ValidationAttributes\\ValidationAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

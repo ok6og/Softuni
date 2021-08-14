@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Rv3mI8XuvTwCq030jDef4eUqy/YpnPTupCH8kdvXYrQ5FaNN2huIqx0MkmncIF5O1PX/CTXnEdaRvM73MEh8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\cSharp OOP 2021 July\\Encapsulation - Exercise\\PizzaCalories\\PizzaCalories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

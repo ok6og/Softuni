@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache

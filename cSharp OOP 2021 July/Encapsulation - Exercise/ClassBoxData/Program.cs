@@ -12,7 +12,7 @@ namespace ClassBoxData
 
             try
             {
-                Box box = new Box(width, length, height);
+                Box box = new Box(length, width, height);
                 Console.WriteLine(box.CalculateSurfaceArea());
                 Console.WriteLine(box.CalculateLateralSurface());
                 Console.WriteLine(box.CalculateVolume());
