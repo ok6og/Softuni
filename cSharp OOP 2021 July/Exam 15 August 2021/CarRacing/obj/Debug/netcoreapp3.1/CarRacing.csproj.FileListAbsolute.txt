@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\PC\Documents\GitHub\Softuni\cSharp OOP 2021 July\Exam 15 August 2021\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
