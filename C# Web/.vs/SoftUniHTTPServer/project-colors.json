@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3dc0108-2e15-46bf-b56a-939598ffc562": {
+      "ProjectGuid": "a3dc0108-2e15-46bf-b56a-939598ffc562",
+      "DisplayName": "SoftUniHTTPServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

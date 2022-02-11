@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.exe
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.deps.json
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.runtimeconfig.json
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.dll
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\bin\Debug\net6.0\ref\SoftUniHTTPServer.dll
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.pdb
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.AssemblyInfo.cs
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.dll
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\ref\SoftUniHTTPServer.dll
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.pdb
+C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.genruntimeconfig.cache
