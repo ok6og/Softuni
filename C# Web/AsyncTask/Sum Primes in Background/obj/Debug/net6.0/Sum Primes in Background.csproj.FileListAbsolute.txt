@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\bin\Debug\net6.0\Sum Primes in Background.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\bin\Debug\net6.0\Sum Primes in Background.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\bin\Debug\net6.0\Sum Primes in Background.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\bin\Debug\net6.0\Sum Primes in Background.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\bin\Debug\net6.0\ref\Sum Primes in Background.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\bin\Debug\net6.0\Sum Primes in Background.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\ref\Sum Primes in Background.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\Sum Primes in Background\obj\Debug\net6.0\Sum Primes in Background.genruntimeconfig.cache
