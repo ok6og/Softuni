@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\bin\Debug\net6.0\BuildInAsyncMethods.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\bin\Debug\net6.0\BuildInAsyncMethods.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\bin\Debug\net6.0\BuildInAsyncMethods.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\bin\Debug\net6.0\BuildInAsyncMethods.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\bin\Debug\net6.0\ref\BuildInAsyncMethods.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\bin\Debug\net6.0\BuildInAsyncMethods.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\ref\BuildInAsyncMethods.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\AsyncTask\BuildInAsyncMethods\obj\Debug\net6.0\BuildInAsyncMethods.genruntimeconfig.cache
