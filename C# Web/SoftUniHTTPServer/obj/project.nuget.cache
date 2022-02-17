@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbfEoy+maCPdjXu8mMZfLNUFkRG/YNg72LZY+PxscvOUSwqIaVaD0ITmoJ+gau8EXeGeC4oPvb7zasendfSM1Q==",
+  "dgSpecHash": "uIkGf/i4yREJ+JKtbFPt69CNmtU1GZ1mIvCDJgnw8hV01N48SnYkLaA9Pf0rsopCbXzRrYMs8qLVTxQQvTkukg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Web\\SoftUniHTTPServer\\SoftUniHTTPServer.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Web\\SoftUniHTTPServer\\BasicWebServer.Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

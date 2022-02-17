@@ -1,8 +1,10 @@
-﻿using System;
+﻿using BasicWebServer.Server.HTTP;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 
 namespace SoftUniHTTPServer.HTTP
 {
@@ -16,24 +18,29 @@ namespace SoftUniHTTPServer.HTTP
 
         public string Body { get; set; }
 
+        public IReadOnlyDictionary<string, string> Form { get; private set; }
+
         public static Request Parse(string request)
         {
             var lines = request.Split("\r\n");
             var firstLine = lines
                 .First()
                 .Split(" ");
+            
             var url = firstLine[1];
             Method method = ParseMethod(firstLine[0]);
-            HeaderCollection headers = ParseHeaders(lines.Skip(1));
-            var bodyLines = lines.Skip(headers.Count+2);
-            string body = string.Join("\r\n", bodyLines);
+            var headers = ParseHeaders(lines.Skip(1));
+            var bodyLines = lines.Skip(headers.Count+2).ToArray();
+            var body = string.Join("\r\n", bodyLines);
+            var form = ParseForm(headers, body);
 
             return new Request()
             {
                 Method = method,
                 Url = url,
                 Headers = headers,
-                Body = body
+                Body = body,
+                Form = form
             };
         }
 
@@ -62,7 +69,7 @@ namespace SoftUniHTTPServer.HTTP
         {
             try
             {
-                return Enum.Parse<Method>(method);
+                return (Method)Enum.Parse(typeof(Method),method,true);
             }
             catch (Exception)
             {
@@ -70,5 +77,30 @@ namespace SoftUniHTTPServer.HTTP
                 throw new InvalidOperationException($"Method {method} is not supported");
             }
         }
+
+        private static Dictionary<string,string> ParseForm(HeaderCollection headers, string body)
+        {
+            var formCollection = new Dictionary<string,string>();
+            if (headers.Contains(Header.ContentType)&&headers[Header.ContentType] == ContentType.FormUrlEncoded)
+            {
+                var parsedResult = ParseFormData(body);
+
+                foreach (var (name, value) in parsedResult)
+                {
+                    formCollection.Add(name, value);
+                }
+            }
+            return formCollection;
+        }
+
+        private static Dictionary<string,string> ParseFormData(string bodyLines)
+            => HttpUtility.UrlDecode(bodyLines)
+            .Split('&')
+            .Select(part => part.Split('='))
+            .Where(part=>part.Length == 2)
+            .ToDictionary(
+                part=> part[0],
+                part=> part[1],
+                StringComparer.InvariantCultureIgnoreCase);
     }
 }

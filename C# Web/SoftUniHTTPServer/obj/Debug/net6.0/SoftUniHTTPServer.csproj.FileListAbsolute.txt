@@ -13,3 +13,18 @@ C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\So
 C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\ref\SoftUniHTTPServer.dll
 C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.pdb
 C:\Users\PC\source\repos\SoftUniHTTPServer\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\ref\SoftUniHTTPServer.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\SoftUniHTTPServer.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\ref\SoftUniHTTPServer.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\SoftUniHTTPServer.genruntimeconfig.cache

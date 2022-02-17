@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\BasicWebServer.Server.exe
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\BasicWebServer.Server.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\bin\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\PC\Documents\GitHub\Softuni\C# Web\SoftUniHTTPServer\obj\Debug\net6.0\BasicWebServer.Server.genruntimeconfig.cache

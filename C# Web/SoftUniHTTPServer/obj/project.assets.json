@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Web\\SoftUniHTTPServer\\SoftUniHTTPServer.csproj",
-      "projectName": "SoftUniHTTPServer",
-      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Web\\SoftUniHTTPServer\\SoftUniHTTPServer.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Web\\SoftUniHTTPServer\\BasicWebServer.Server.csproj",
+      "projectName": "BasicWebServer.Server",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Web\\SoftUniHTTPServer\\BasicWebServer.Server.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\C# Web\\SoftUniHTTPServer\\obj\\",
       "projectStyle": "PackageReference",

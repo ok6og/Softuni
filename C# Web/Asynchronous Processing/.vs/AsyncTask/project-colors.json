@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51640473-734c-40b2-bafb-b55a0ed6819b": {
+      "ProjectGuid": "51640473-734c-40b2-bafb-b55a0ed6819b",
+      "DisplayName": "AsyncTask",
+      "ColorIndex": 0
+    },
+    "e8e96e44-e6ee-4af3-aeb8-19f1586e63af": {
+      "ProjectGuid": "e8e96e44-e6ee-4af3-aeb8-19f1586e63af",
+      "DisplayName": "Sum Primes in Background",
+      "ColorIndex": 1
+    },
+    "9c2a087d-bf55-4f7e-8daf-178f9c58921a": {
+      "ProjectGuid": "9c2a087d-bf55-4f7e-8daf-178f9c58921a",
+      "DisplayName": "BuildInAsyncMethods",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

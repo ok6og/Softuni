@@ -3,7 +3,7 @@
   "ProjectMap": {
     "a3dc0108-2e15-46bf-b56a-939598ffc562": {
       "ProjectGuid": "a3dc0108-2e15-46bf-b56a-939598ffc562",
-      "DisplayName": "SoftUniHTTPServer",
+      "DisplayName": "BasicWebServer.Server",
       "ColorIndex": 0
     },
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
