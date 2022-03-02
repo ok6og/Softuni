@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MovieLibrary.Core.Constants;
 using MovieLibrary.Models;
 using System.Diagnostics;
 
@@ -15,6 +16,7 @@ namespace MovieLibrary.Controllers
 
         public IActionResult Index()
         {
+            ViewData[MessageConstant.ErrorMessage] = "Нещо се счупи брат!";
             return View();
         }
 

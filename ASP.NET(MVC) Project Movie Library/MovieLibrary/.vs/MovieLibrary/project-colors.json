@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6785c971-f30a-4a9e-a4c0-dcda1ff0c27a": {
+      "ProjectGuid": "6785c971-f30a-4a9e-a4c0-dcda1ff0c27a",
+      "DisplayName": "MovieLibrary",
+      "ColorIndex": 0
+    },
+    "7c37e278-c656-492c-b757-9377831e397f": {
+      "ProjectGuid": "7c37e278-c656-492c-b757-9377831e397f",
+      "DisplayName": "MovieLibrary.Core",
+      "ColorIndex": 1
+    },
+    "38085ff9-c948-4fb6-8cfb-ae9e1446d466": {
+      "ProjectGuid": "38085ff9-c948-4fb6-8cfb-ae9e1446d466",
+      "DisplayName": "MovieLibrary.Infrastructure",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

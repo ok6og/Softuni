@@ -771,6 +771,29 @@
             "rid": "win"
           }
         }
+      },
+      "MovieLibrary.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MovieLibrary.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MovieLibrary.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieLibrary.Core.dll": {}
+        }
+      },
+      "MovieLibrary.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MovieLibrary.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieLibrary.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -2339,6 +2362,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "MovieLibrary.Core/1.0.0": {
+      "type": "project",
+      "path": "../MovieLibrary.Core/MovieLibrary.Core.csproj",
+      "msbuildProject": "../MovieLibrary.Core/MovieLibrary.Core.csproj"
+    },
+    "MovieLibrary.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../MovieLibrary.Infrastructure/MovieLibrary.Infrastructure.csproj",
+      "msbuildProject": "../MovieLibrary.Infrastructure/MovieLibrary.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2348,7 +2381,8 @@
       "Microsoft.AspNetCore.Identity.UI >= 6.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.2",
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.14.0"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.14.0",
+      "MovieLibrary.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2382,7 +2416,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
