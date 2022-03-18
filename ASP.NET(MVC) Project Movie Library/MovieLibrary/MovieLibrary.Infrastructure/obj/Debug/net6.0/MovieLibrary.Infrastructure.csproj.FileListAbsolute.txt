@@ -10,3 +10,15 @@ C:\Users\PC\Documents\GitHub\Softuni\ASP.NET(MVC) Project Movie Library\MovieLib
 C:\Users\PC\Documents\GitHub\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\ref\MovieLibrary.Infrastructure.dll
 C:\Users\PC\Documents\GitHub\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.pdb
 C:\Users\PC\Documents\GitHub\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\bin\Debug\net6.0\MovieLibrary.Infrastructure.deps.json
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\bin\Debug\net6.0\MovieLibrary.Infrastructure.dll
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\bin\Debug\net6.0\MovieLibrary.Infrastructure.pdb
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.AssemblyInfo.cs
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.dll
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\refint\MovieLibrary.Infrastructure.dll
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\MovieLibrary.Infrastructure.pdb
+C:\Users\ok6og\source\repos\ok6og\Softuni\ASP.NET(MVC) Project Movie Library\MovieLibrary\MovieLibrary.Infrastructure\obj\Debug\net6.0\ref\MovieLibrary.Infrastructure.dll

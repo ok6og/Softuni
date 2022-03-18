@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj": {}
+    "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj": {
+    "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj",
         "projectName": "MovieLibrary.Core",
-        "projectPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj",
+        "projectPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj",
         "packagesPath": "C:\\Users\\ok6og\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\obj\\",
+        "outputPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ok6og\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj"
+              "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj": {
+    "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj",
         "projectName": "MovieLibrary.Infrastructure",
-        "projectPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\MovieLibrary.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ok6og\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ok6og\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj": {
+    "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj",
         "projectName": "MovieLibrary",
-        "projectPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj",
+        "projectPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj",
         "packagesPath": "C:\\Users\\ok6og\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ok6og\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj": {
-                "projectPath": "C:\\Users\\ok6og\\Documents\\Softuni-main\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj"
+              "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj": {
+                "projectPath": "C:\\Users\\ok6og\\source\\repos\\ok6og\\Softuni\\ASP.NET(MVC) Project Movie Library\\MovieLibrary\\MovieLibrary.Core\\MovieLibrary.Core.csproj"
               }
             }
           }
